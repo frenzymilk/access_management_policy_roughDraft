@@ -1,5 +1,5 @@
 # Midsize financial management company XYZ
-lat reviewed date 02/02/2023
+Last reviewed date 02/02/2023
 
 ## Information Security Policy
 
