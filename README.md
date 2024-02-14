@@ -23,16 +23,16 @@ The following statements provide the information security policy for the organiz
 The organization shall ensure information security is part of the overall risk management strategy.
 
 #### Access Control
-The following policies are associated with the control of access to systems and data
+The following policies are associated with the control of access to systems and data.
 
 User access
-- Any access granted to our organization systems, applications, and data shall require appropriate approval.
-- All access to systems, applications and data shall be documented and reviewed for validityon management approved frequency.
-- Account access to systems, applications and data shall be removed when no longer required, or as discovered during review.
+- Any access granted to XYZ systems, applications, and data shall require appropriate approval.
+- All access to systems, applications and data shall be documented and reviewed for validation at management approved frequency.
+- Account access to systems, applications and data shall be removed as soon as they are no longer required, or as discovered during review.
 - User account types shall be appropriate for the user access required, i.e. general user, privilege user, non-staff (third party), guest, and emergency user.
 
 Authentication
-- All access to organizational systems, applications, and data that is accessible via the Internet (i.e., internet-facing systems) shall reaquired multi-factor authentication
+- All access to organizational systems, applications, and data that is accessible via the Internet (i.e., internet-facing systems) shall require multi-factor authentication
 - All mobile devices (i.e., tablets, mobile phones) shall have an authentication mechanism to unlock and access the device.
 - Shared user accounts shall be explicitely approved for use by management on a case by case basis.
 
@@ -50,7 +50,7 @@ Remote Access
 
 ### Non-compliance
 
-Any individuals that this policy applies to are required to follow the policy. Non-compliance with the policy will result in appropriate managemet-guided sanctions
+Any individual that this policy applies to are required to follow the policy. Non-compliance with the policy will result in appropriate management-guided sanctions.
 
 ### Management Commitment
 
